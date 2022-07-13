@@ -4,7 +4,7 @@ public class ResourceCentre {
 
 	public static void main(String[] args) {
 		//student 1 - bhavana
-		
+		//student 2 - yeeteng
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
 
